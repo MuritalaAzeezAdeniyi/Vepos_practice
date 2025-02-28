@@ -1,5 +1,8 @@
 package com.example.demo.model;
 
+import jakarta.persistence.Entity;
+
+
 public class UserModel {
     private String username;
     private String password;
